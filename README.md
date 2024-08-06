@@ -1,6 +1,6 @@
 # Programação Web Ceub :)
 
-Códigos De Programação WEB DE Ciência da Computação do ceub.
+Códigos de programação WEB do curso de Ciência da Computação do ceub.
 
 ## Caso queira usar o código
 

@@ -1,6 +1,6 @@
 # Programação Web Ceub :)
 
-![Custom Badge](https://img.shields.io/badge/Made-with-HTML-blue)
+![Custom Badge](https://img.shields.io/badge/Web-HTML-blue)
 
 Códigos de programação WEB do curso de Ciência da Computação do ceub.
 
